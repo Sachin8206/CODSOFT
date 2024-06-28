@@ -13,6 +13,9 @@ Codesoft Internship Projects offer hands-on experience in software development, 
 
 # Personal Portfolio-website creating HTML, CSS, and JAVASCRIPT with all functionality
 
+![Screenshot from 2024-06-29 01-45-08](https://github.com/Sachin8206/CODSOFT/assets/171965411/e1d117fa-0927-4702-924e-8cc6f7f5d732)
+
+![Screenshot from 2024-06-29 01-45-18](https://github.com/Sachin8206/CODSOFT/assets/171965411/23249364-6ebe-4959-bdb0-aca64f56f292)
 
 
 # Landing page using HTML, CSS.
